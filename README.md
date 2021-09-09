@@ -29,3 +29,7 @@
 
 ## 소스 코드
 https://github.com/choi92/Noise_Meter/blob/main/noise_detector.ino
+
+## 작동
+![image](https://user-images.githubusercontent.com/65582244/132722400-ebd8463e-e815-4857-9772-4978255ec7d7.png)
+
